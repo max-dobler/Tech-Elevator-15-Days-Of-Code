@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj": {}
+    "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj": {
+    "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj",
         "projectName": "FifteenDaysOfCode",
-        "projectPath": "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj",
+        "projectPath": "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCOde\\FifteenDaysOfCode.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCOde\\obj\\",
+        "outputPath": "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCOde\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

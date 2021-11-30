@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FifteenDaysOfCode;
+using System;
 
 namespace FifteenDaysOfCOde
 {
@@ -6,6 +7,9 @@ namespace FifteenDaysOfCOde
         {
             static void Main(string[] args)
             {
+            CodeExercises vs = new CodeExercises();
+
+            int[] test = vs.MakeLast(new int[] { 4, 5, 6 });
             }
         }
 }

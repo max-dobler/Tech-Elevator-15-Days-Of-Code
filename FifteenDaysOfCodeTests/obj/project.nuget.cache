@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/G7kZ7KOHtLv8H2jkYhl/1ZRHZVQsOrOcKUESweUiiGVrJQfSWi2e/esTUx3jFNHFikdBcVrjEeHJwZ06LtkA==",
+  "dgSpecHash": "7WaFixA/+E3bF9UaitEIFzRWqqAnwPRZBlqqYsIIHT5f6zFuR/g4VgUKGvh01nh4uWCmVDirzwKjGRp4VermbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\source\\repos\\practice\\FifteenDaysOfCOde\\FifteenDaysOfCodeTests\\FifteenDaysOfCodeTests.csproj",
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\maxdobler-15-days-of-code\\FifteenDaysOfCodeTests\\FifteenDaysOfCodeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

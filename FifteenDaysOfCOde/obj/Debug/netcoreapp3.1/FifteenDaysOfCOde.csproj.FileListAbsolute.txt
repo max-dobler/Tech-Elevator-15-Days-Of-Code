@@ -12,3 +12,17 @@ C:\Users\Student\source\repos\practice\FifteenDaysOfCOde\FifteenDaysOfCOde\bin\D
 C:\Users\Student\source\repos\practice\FifteenDaysOfCOde\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCOde.dll
 C:\Users\Student\source\repos\practice\FifteenDaysOfCOde\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCOde.pdb
 C:\Users\Student\source\repos\practice\FifteenDaysOfCOde\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCOde.genruntimeconfig.cache
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.exe
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.deps.json
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.runtimeconfig.json
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.runtimeconfig.dev.json
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.dll
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\bin\Debug\netcoreapp3.1\FifteenDaysOfCode.pdb
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.AssemblyInfo.cs
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.dll
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.pdb
+C:\Users\Student\source\repos\maxdobler-15-days-of-code\FifteenDaysOfCOde\obj\Debug\netcoreapp3.1\FifteenDaysOfCode.genruntimeconfig.cache
